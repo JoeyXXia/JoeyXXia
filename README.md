@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am a frontend developer
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ft663qwLDyecjTLncVxeDKHksVrfIlOe9g&usqp=CAU
+![image](https://github.com/JoeyXXia/JoeyXXia/assets/81903377/eedd219c-055f-41e4-966c-de96e78609cc)
 
 <!--
 **JoeyXXia/JoeyXXia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
