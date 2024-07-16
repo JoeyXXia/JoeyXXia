@@ -1,19 +1,36 @@
-### Hi there 👋
-### I am a frontend developer
+# 😎 **Joey Xia** 
 
-![image](https://github.com/JoeyXXia/JoeyXXia/assets/81903377/eedd219c-055f-41e4-966c-de96e78609cc)
+## 📫 Contact Information
 
-<!--
-**JoeyXXia/JoeyXXia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Email:** [xiaxujoey@qq.com](mailto:your-email@example.com)
+- **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
 
-Here are some ideas to get you started:
+## 🚀 **About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! I'm a passionate Frontend Developer
+
+## 🛠 **Skills**
+
+### **Frontend Development**
+
+- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Frameworks/Libraries:** React, Vue.js
+- **CSS Preprocessors:** Sass, Less
+- **Build Tools:** Webpack,  Vite
+- **Version Control:** Git, GitHub
+
+### **Other**
+
+- **Testing:** Jest, Vitest
+- **APIs:** REST,NodeJS
+- **DevOps:**  CI/CD, Netlify, Jenkins
+
+
+
+## 🎨 **Interests**
+
+- **Hobbies:** Coding, Reading, Traveling, Photography
+
+- **Favorite Tech Blogs:** CSS-Tricks, MDN,Medium
+
+  
