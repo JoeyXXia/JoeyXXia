@@ -3,7 +3,7 @@
 ## 📫 Contact Information
 
 - **Email:** [xiaxujoey@qq.com](mailto:your-email@example.com)
-- **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
+- **Portfolio:** [your-portfolio.com](https://joeyxia.netlify.app/)
 
 ## 🚀 **About Me**
 
